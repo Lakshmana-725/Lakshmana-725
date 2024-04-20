@@ -3,7 +3,7 @@
 
 🌱 Learning Never Stops 🚀
 
-💬 Ask me about **Web Development,,Python, DBMS, MySQL**
+💬 Ask me about **Web Development,Python, DBMS, MySQL**
 
 👨‍💻 Check out my personal portfolio : <a href="https://lakshman.42web.io/" target="_blank">Portfolio </a>
 
