@@ -67,10 +67,34 @@
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lakshmana-725&show_icons=true&theme=dark&locale=en&layout=compact" alt="Lakshmana Rao.P" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" alt="Lakshmana Rao.P" />
 <div/>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lakshmana-725&show_icons=true&theme=dark&locale=en" alt="Lakshmana Rao.P" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshmana-725&theme=dark" alt="Lakshmana Rao.P" />
-<div/>
+<div align="left">
+  <details>
+    <summary>Git Hub Stars...</summary>
+    <div>
+      <img src="https://github-readme-stats.vercel.app/api?username=Lakshmana-725" alt="Lakshmana Rao.P" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshmana-725" alt="Lakshmana Rao.P" />
+    <div/>
+  </details>
+  <details>
+    <summary>Languages Usage Time</summary>
+    <div>
+      <img src="https://wakatime.com/share/@lakshmana_725/1811f828-5ee4-43df-af15-aa25aff62efb.svg" alt="Lakshmana Rao.P" />
+    <div/>
+  </details>
+  <details>
+    <summary>Coding Activity</summary>
+    <div>
+      <img src="https://wakatime.com/share/@lakshmana_725/9173e604-64d1-4d11-a428-429069597aba.svg" />
+    <div/>
+  </details>
+  <details>
+    <summary>Coding Activity Last 7 Days</summary>
+    <div>
+     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=lakshmana_725&layout=full" alt="Lakshmana Rao.P's WakaTime Stats" />
+    <div/>
+  </details>
+</div>
+</details>
