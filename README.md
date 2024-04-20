@@ -11,6 +11,7 @@
 
 <img align="right" width="360" style="border-radius: 20px;" src="https://user-images.githubusercontent.com/61352259/157984130-ab483bd2-8dc8-4dbf-95fb-e49e35e09290.gif" alt="Gif">
 
+
 <h3 align="left">Look At Resume 👇</h3>
 <div align="left">
   <a href="https://drive.google.com/file/d/1oJJyH51jaOJ3MJyFP_RGZ8XXfMPYFg9_/view?usp=drive_link" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=adobe&logoColor=white" /></a>
@@ -98,3 +99,9 @@
   </details>
 </div>
 </details>
+<div style="background-image: url('https://www.cordis.us/bahrain/wp-content/uploads/2021/04/Collaborative-Process-Modelling.gif');  
+background-color: rgba(255, 255, 255, 0.1);
+height: 100vh; 
+width: 100vw; 
+position: relative;background-size: cover; background-position: center;">
+</div>
