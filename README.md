@@ -1,13 +1,17 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Lakshmana Rao.P </a></h1>
 <h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=5eeb34&lines=Front-End+Angular+Developer+%3A)+💻" /> </h2>
-
+<div align="center"> 
+  <details>
+    <summary>Click here About ME 👇</summary>
+      <div align="left"> 
 🌱 Learning Never Stops 🚀
 
-💬 Ask me about **Web Development,Python, DBMS, MySQL**
+💬 Ask me about **Web Development, Python, DBMS, MySQL**
 
 👨‍💻 Check out my personal portfolio : <a href="https://lakshman.42web.io/" target="_blank">Portfolio </a>
 
 😄 Pronouns: He/His
+</div>
 
 <img align="right" width="360" style="border-radius: 20px;" src="https://user-images.githubusercontent.com/61352259/157984130-ab483bd2-8dc8-4dbf-95fb-e49e35e09290.gif" alt="Gif">
 
@@ -104,4 +108,6 @@ background-color: rgba(255, 255, 255, 0.1);
 height: 100vh; 
 width: 100vw; 
 position: relative;background-size: cover; background-position: center;">
+</div>
+  </details>
 </div>
