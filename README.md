@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Lakshmana Rao.P </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/plakshmanarao/" target="_blank"> Lakshmana Rao.P </a></h1>
 <h2 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=5eeb34&lines=Front-End+Angular+Developer+%3A)+💻" /> </h2>
 <div align="center"> 
   <details>
